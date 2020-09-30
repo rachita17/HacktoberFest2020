@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="proposed-projects">Proposed Projects</h1>
 <p>This is a list of project you would like to build under MTC these projects can help making things easier or better at MTC but not kust limited to MTC. We welcome any kind of Project you would like to create.</p>
