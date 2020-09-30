@@ -22,3 +22,8 @@
 <li><em><strong>Learn Markup <a href="https://github.com/tchapi/markdown-cheatsheet">here</a></strong></em></li>
 </ul>
 
+**Good  first Issues**
+1. https://github.com/microsoft-technical-community-mtc-upes/HacktoberFest2020/issues/5
+2. https://github.com/microsoft-technical-community-mtc-upes/HacktoberFest2020/issues/4
+3. https://github.com/microsoft-technical-community-mtc-upes/Bugymania-2018/issues/1
+4. https://github.com/microsoft-technical-community-mtc-upes/MTC-Exam_Registration_Portal/issues
