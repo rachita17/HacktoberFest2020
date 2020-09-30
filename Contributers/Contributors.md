@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="hey-there-">Hey there !</h1>
 <p>My name is <a href="https://github.com/RishabhArya">Rishabh Arya</a><br>
 <img src="https://github.com/RishabhArya/HacktoberFest2020/blob/master/Images./Rishabh_octocat.png"><br>
