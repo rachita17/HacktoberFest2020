@@ -11,7 +11,7 @@
 <h3 id="it’s-that-time-of-year-again-when-we-come-together-to-support-and-celebrate-the-open-source-technologies-we-use-and-love.">It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.</h3>
 <p>Join the open source celebration and leave a mark on the open source world! Read <strong>open-source journey <a href="https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/">here</a></strong>.</p>
 <p><a href="https://github.com/RishabhArya/HacktoberFest2020/blob/master/LICENSE"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"></a> <a href="https://github.com/RishabhArya/HacktoberFest2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&amp;style=flat" alt="GitHub license"></a></p>
-<p><strong>Register <a href="https://hacktoberfest.digitalocean.com">here</a> for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.</strong></p>
+<p><strong>Register <a href="https://hacktoberfest.digitalocean.com">here</a> for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt and cool swags.</strong></p>
 <blockquote>
 <p>I’ve opened few issues for beginners. Take up any issue and send your first PR!</p>
 </blockquote>
@@ -22,3 +22,8 @@
 <li><em><strong>Learn Markup <a href="https://github.com/tchapi/markdown-cheatsheet">here</a></strong></em></li>
 </ul>
 
+**Good  first Issues**
+1. https://github.com/microsoft-technical-community-mtc-upes/HacktoberFest2020/issues/5
+2. https://github.com/microsoft-technical-community-mtc-upes/HacktoberFest2020/issues/4
+3. https://github.com/microsoft-technical-community-mtc-upes/Bugymania-2018/issues/1
+4. https://github.com/microsoft-technical-community-mtc-upes/MTC-Exam_Registration_Portal/issues
