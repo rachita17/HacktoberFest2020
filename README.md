@@ -33,8 +33,7 @@ Join the open source celebration and leave a mark on the open source world! Read
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt and swags **
 
 > I've opened few issues for beginners. Take up any issue and send your first PR! **Many beginner-friendly issues on way - [Star](https://github.com/vinitshahdeo/Hacktoberfest2020/stargazers)(watch) this repo for updates.** Read my open-source journey [here](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/).
-<p>
+
 **Resources**
-***Learn Git Commands [here](https://github.com/joshnh/Git-Commands)***
-***Learn Markup [here](https://github.com/tchapi/markdown-cheatsheet)***
-</p>
+> ***Learn Git Commands [here](https://github.com/joshnh/Git-Commands)***
+> ***Learn Markup [here](https://github.com/tchapi/markdown-cheatsheet)***
