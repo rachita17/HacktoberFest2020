@@ -18,6 +18,3 @@ Towards my first Hacktober Fest pr...
 <p> My name is <a href="https://github.com/manishsamota"> Manish Samota </a><br>
 
 <img src="https://user-images.githubusercontent.com/59643473/94761925-f2168400-03c3-11eb-85c1-e13ab6382abc.png" width="250" height="300"><br>
-
-This will be the first Hacktoberfest. This would be special as I will be helping a few people kickstart their OpenSource Journey via Hacktoberfest. I will be wearing two hats this time working as a participant and a Maintainer.</p>
-=======
