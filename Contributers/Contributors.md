@@ -11,6 +11,9 @@ I am [Vrinda Bhatia](https://vrindabhatia999.github.io/)
 I am a JavaScript developer and would love to make contributions in open source!!<br>
 Towards my first Hacktober Fest pr...
 
+Hello Everyone
+My name is Rachita Jain. I am an Anroid Developer and i am contributing for first time in HactoberFest.I  hope i could solve bugs issues and contribute in it.
+
 <!-- Hay I am 2nd Contributor -->
 
 <h1 id="hey-there-"> Hey there !</h1>
