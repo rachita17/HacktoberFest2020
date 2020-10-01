@@ -8,7 +8,7 @@
 <em><strong>Suggested Tech Stack</strong></em> - Native Android/ Flutter</p>
 </li>
 <li>
-<p><strong>Alma matter</strong> - Webiste dedicate to form a Communtiy within UPES and make a network of people graduated, currently studying. UPES alma matter have been working in Companies from Google to Facebook. Having a dedicated website for alumnia will help guide young minds and build a string network so people dont have to struggle on LinkedIn to get refferals and can easily ask a senior of guidance and exprience.<br>
+<p><strong>Alma matter</strong> - Website dedicates to form a Community within UPES and make a network of people who graduated, currently studying. UPES alumni matter has been working in Companies from Google to Facebook. Having a dedicated website for alumni will help guide young minds and build a strong network so people don't have to struggle on LinkedIn to get referrals and can easily ask a senior for guidance and experience.<br>
 <em><strong>Suggested Tech Stack</strong></em> - HTML,CSS,PHP,JS</p>
 </li>
 </ol>
