@@ -10,6 +10,8 @@
 <li>
 <p><strong>Alma matter</strong> - Website dedicates to form a Community within UPES and make a network of people who graduated, currently studying. UPES alumni matter has been working in Companies from Google to Facebook. Having a dedicated website for alumni will help guide young minds and build a strong network so people don't have to struggle on LinkedIn to get referrals and can easily ask a senior for guidance and experience.<br>
 <em><strong>Suggested Tech Stack</strong></em> - HTML,CSS,PHP,JS</p>
+  <p><strong>Home Automation System</strong>- Android application to control several electrical appliances by clicking specific buttons or using voice commands. These commands will be relayed via Bluetooth to Arduino Uno, thereby completely automating specific tasks for you.<br>
+    <em><strong>Suggested Tech Stack</strong></em>- Android, Aurdino</p>
 </li>
 </ol>
 
